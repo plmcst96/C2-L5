@@ -119,7 +119,8 @@ const numericArray = [
 let i = 0
 
 while (i < numericArray[i].length) {
-  console.log(numericArray[i] <= 32)
+  numericArray[i] <= 32
+  console.log(numericArray[i].push())
   i++
 }
 console.log(numericArray)
